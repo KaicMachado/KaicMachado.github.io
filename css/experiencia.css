@@ -124,4 +124,13 @@
     .empresa {
         grid-template-columns: 1fr;
     }
+
+    .empresa-habilidades li {
+        margin-bottom: 15px;
+    }
+
+    .empresa-ano {
+        margin-top: 10px;
+    }
+
 }
